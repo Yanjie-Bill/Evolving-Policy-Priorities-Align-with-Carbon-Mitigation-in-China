@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+openpyxl
+geopandas
+
+# Optional, only for scripts/00_optional_recompute_policy_embeddings.py
+sentence-transformers
+torch

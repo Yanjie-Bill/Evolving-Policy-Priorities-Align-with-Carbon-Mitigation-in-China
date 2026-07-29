@@ -1,0 +1,43 @@
+Dominant policy alignment metrics
+                                              metric     value
+                         overall_mean_dominant_share  0.317510
+              mean_dominant_share_delta_yoy_negative  0.337554
+           mean_dominant_share_delta_yoy_nonnegative  0.288559
+          mean_difference_negative_minus_nonnegative  0.048995
+                             relative_difference_pct 16.979072
+                                        welch_t_stat  1.883193
+                                           welch_t_p  0.074808
+                                  mannwhitney_u_stat 84.000000
+                                     mannwhitney_u_p  0.095028
+   alignment_ratio_negative_years_above_overall_mean  0.615385
+alignment_ratio_nonnegative_years_above_overall_mean  0.333333
+                          alignment_ratio_difference  0.282051
+
+Cluster validation metrics
+ k  silhouette_score  davies_bouldin_index  calinski_harabasz_score
+ 2          0.008704              6.259473                32.713766
+ 3          0.004800              5.289595                24.863765
+ 4          0.007689              4.661562                20.642117
+ 5          0.013016              5.149411                20.866207
+ 6          0.018345              4.831544                22.586470
+ 7          0.024705              4.485806                23.428330
+ 8          0.024385              4.794258                21.048665
+ 9          0.024789              4.769307                19.129707
+10          0.026842              4.517768                19.140340
+11          0.031367              4.286087                19.378209
+12          0.035073              4.202395                19.546288
+13          0.037912              4.285571                19.130621
+14          0.040169              4.204992                18.393008
+15          0.039847              4.203556                17.400968
+16          0.041860              4.094500                17.043202
+17          0.044625              3.959876                17.020746
+18          0.045187              4.188131                16.247664
+19          0.048528              4.067241                16.215757
+20          0.050520              3.994176                16.159343
+
+Cluster stability metrics
+  metric    value
+mean_ARI 0.442875
+ std_ARI 0.123031
+ min_ARI 0.096987
+ max_ARI 0.842442

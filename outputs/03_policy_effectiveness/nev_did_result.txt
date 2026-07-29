@@ -1,0 +1,2 @@
+                              policy  origin_time treat_month  year                                                                                                                                             treated_states      coef   pvalue  is_nev
+国务院办公厅关于印发新能源汽车产业发展规划（2021—2035年）的通知       202011     2020-11  2020 ['Liaoning', 'Hunan', 'Hebei', 'Yunnan', 'Jilin', 'Jiangsu', 'Beijing', 'Inner Mongolia', 'Shaanxi', 'Guizhou', 'Henan', 'Jiangxi', 'Xinjiang', 'Sichuan'] -0.034929 0.001746    True
