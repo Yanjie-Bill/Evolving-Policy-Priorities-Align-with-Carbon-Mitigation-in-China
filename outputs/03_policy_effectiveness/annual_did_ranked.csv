@@ -1,0 +1,40 @@
+policy,year,treated_states,coef,pvalue,is_nev
+国务院关于落实《政府工作报告》重点工作部门分工的意见,2019,"['Liaoning', 'Hebei', 'Beijing', 'Inner Mongolia', 'Shaanxi', 'Guizhou', 'Jiangxi']",0.2477904760738936,1.117371942349143e-16,False
+国务院关于同意郴州市建设国家可持续发展议程创新示范区的批复,2019,['Hunan'],-0.154899583843957,5.4583909053653405e-09,False
+国务院办公厅关于调整国家应对气候变化及节能减排工作领导小组组成人员的通知,2019,"['Hebei', 'Yunnan', 'Jilin', 'Beijing', 'Shaanxi']",0.1212421588776212,9.405174808467935e-06,False
+国务院办公厅关于修复贵州省生态环境问题的复函,2019,"['Hunan', 'Hebei', 'Yunnan', 'Hainan', 'Guangdong', 'Jiangsu', 'Heilongjiang', 'Tibet', 'Qinghai', 'Jiangxi', 'Xinjiang', 'Zhejiang', 'Sichuan']",0.0927747057506804,0.0006167187583306,False
+国务院关于东北全面振兴“十四五”实施方案的批复,2021,"['Liaoning', 'Hebei', 'Jilin', 'Heilongjiang', 'Inner Mongolia', 'Shaanxi', 'Jiangxi']",-0.1382414238835468,0.0039291016420659,False
+国务院办公厅关于印发“无废城市”建设试点工作方案的通知,2019,"['Hunan', 'Hebei', 'Hainan', 'Tianjin', 'Beijing', 'Tibet', 'Henan', 'Qinghai', 'Fujian', 'Sichuan']",0.0691174683067764,0.0100468321832171,False
+国务院关于推进资源型地区高质量发展“十四五”实施方案的批复,2021,"['Liaoning', 'Hunan', 'Hebei', 'Yunnan', 'Jilin', 'Hainan', 'Tianjin', 'Guangdong', 'Jiangsu', 'Shandong', 'Beijing', 'Tibet', 'Inner Mongolia', 'Shaanxi', 'Guizhou', 'Henan', 'Qinghai', 'Shanxi', 'Fujian', 'Jiangxi', 'Xinjiang']",-0.1052741487766183,0.0144557487170678,False
+国务院关于加快建立健全绿色低碳循环发展经济体系的指导意见,2021,"['Liaoning', 'Hunan', 'Hebei', 'Yunnan', 'Hainan', 'Tianjin', 'Jiangsu', 'Shandong', 'Beijing', 'Inner Mongolia', 'Shaanxi', 'Guizhou', 'Henan', 'Qinghai', 'Shanxi', 'Fujian', 'Jiangxi', 'Sichuan']",-0.0733679880136086,0.0733079563394116,False
+国务院关于印发2030年前碳达峰行动方案的通知,2021,"['Liaoning', 'Hunan', 'Hebei', 'Yunnan', 'Hainan', 'Tianjin', 'Jiangsu', 'Shandong', 'Beijing', 'Tibet', 'Inner Mongolia', 'Shaanxi', 'Guizhou', 'Henan', 'Qinghai', 'Shanxi', 'Fujian', 'Jiangxi', 'Zhejiang', 'Sichuan']",-0.0660990634223367,0.1181813696075374,False
+国务院关于“十四五”特殊类型地区振兴发展规划的批复,2021,['Liaoning'],-0.1750533227779648,0.1265740039201138,False
+国务院关于落实《政府工作报告》重点工作分工的意见,2021,"['Hebei', 'Tianjin', 'Beijing', 'Inner Mongolia', 'Shaanxi', 'Guizhou', 'Jiangxi', 'Sichuan']",-0.0617117278851449,0.1826718058604565,False
+国务院办公厅关于鼓励和支持社会资本参与生态保护修复的意见,2021,"['Hunan', 'Hebei', 'Guangdong', 'Beijing', 'Heilongjiang', 'Tibet', 'Inner Mongolia', 'Qinghai', 'Jiangxi', 'Xinjiang', 'Zhejiang', 'Sichuan']",-0.0481829677546209,0.247137918880151,False
+国务院关于落实《政府工作报告》重点工作分工的意见,2022,"['Tianjin', 'Beijing', 'Shaanxi', 'Jiangxi']",0.0565475352641913,0.3217269241338023,False
+国务院办公厅转发国家发展改革委国家能源局关于促进新时代新能源高质量发展实施方案的通知,2022,"['Liaoning', 'Hunan', 'Hebei', 'Yunnan', 'Shanghai', 'Jilin', 'Tianjin', 'Beijing', 'Tibet', 'Inner Mongolia', 'Shaanxi', 'Guizhou', 'Henan', 'Shanxi', 'Fujian', 'Jiangxi', 'Xinjiang', 'Sichuan']",-0.0383398845202532,0.3226959423223102,False
+国务院办公厅关于加强入河入海排污口监督管理工作的实施意见,2022,"['Tianjin', 'Beijing', 'Zhejiang']",0.0626691710599167,0.3328250223042271,False
+国务院办公厅关于印发《加快构建碳排放双控制度体系工作方案》的通知,2024,"['Hunan', 'Henan']",0.096971420831327,0.3534116923189535,False
+国务院办公厅关于科学绿化的指导意见,2021,"['Liaoning', 'Hunan', 'Hebei', 'Yunnan', 'Guangdong', 'Jiangsu', 'Shandong', 'Beijing', 'Heilongjiang', 'Tibet', 'Inner Mongolia', 'Qinghai', 'Jiangxi', 'Xinjiang', 'Zhejiang', 'Sichuan']",-0.0376474082596903,0.353919734629172,False
+国务院关于印发《空气质量持续改善行动计划》的通知,2023,"['Hunan', 'Tianjin', 'Shanxi']",-0.0577751513212624,0.4001100350935381,False
+碳排放权交易管理暂行条例,2024,['Beijing'],0.1202637970567455,0.407969848000196,False
+国务院关于支持山东深化新旧动能转换推动绿色低碳高质量发展的意见,2022,"['Liaoning', 'Hunan', 'Yunnan', 'Jilin', 'Shandong', 'Beijing', 'Tibet', 'Shaanxi', 'Guizhou', 'Henan', 'Jiangxi']",0.0328440654592374,0.4116343187651832,False
+国务院办公厅关于调整国家能源委员会组成人员的通知,2020,['Yunnan'],0.1123207772695537,0.4396964938686993,False
+国务院办公厅关于加强草原保护修复的若干意见,2021,"['Liaoning', 'Hunan', 'Hebei', 'Yunnan', 'Guangdong', 'Jiangsu', 'Beijing', 'Heilongjiang', 'Tibet', 'Inner Mongolia', 'Qinghai', 'Jiangxi', 'Xinjiang', 'Zhejiang', 'Sichuan']",-0.0297199358231188,0.4645281007707358,False
+国务院关于落实《政府工作报告》重点工作部门分工的意见,2020,"['Hebei', 'Tianjin', 'Beijing', 'Inner Mongolia', 'Shaanxi', 'Guizhou', 'Jiangxi', 'Sichuan']",-0.0419494473081527,0.4748537744545408,False
+国务院关于印发《深入实施以人为本的新型城镇化战略五年行动计划》的通知,2024,['Hunan'],0.1033358846056054,0.4772176388469649,False
+国务院办公厅关于印发自然资源领域中央与地方财政事权和支出责任划分改革方案的通知,2020,"['Hebei', 'Beijing', 'Jiangxi']",-0.0572118766609981,0.5102715004076748,False
+国务院办公厅关于进一步构建高质量充电基础设施体系的指导意见,2023,"['Hunan', 'Jilin', 'Inner Mongolia', 'Guizhou', 'Henan', 'Xinjiang', 'Sichuan']",0.0306623590901416,0.5279084078501555,False
+国务院关于印发“十四五”节能减排综合工作方案的通知,2022,"['Liaoning', 'Hunan', 'Hebei', 'Yunnan', 'Shanghai', 'Tianjin', 'Shandong', 'Beijing', 'Tibet', 'Inner Mongolia', 'Shaanxi', 'Guizhou', 'Henan', 'Shanxi', 'Fujian', 'Jiangxi', 'Sichuan']",-0.0235849376051703,0.5399411463511554,False
+国务院关于印发《推动大规模设备更新和消费品以旧换新行动方案》的通知,2024,['Henan'],0.0864391655788818,0.5527567510479839,False
+国务院办公厅关于加快构建废弃物循环利用体系的意见,2024,['Henan'],0.0864391655788818,0.5527567510479839,False
+国务院办公厅关于对国务院第九次大督查发现的典型经验做法给予表扬的通报,2022,"['Liaoning', 'Beijing', 'Tibet', 'Shaanxi', 'Henan', 'Jiangxi']",0.0172592179363823,0.7219004212236217,False
+国务院办公厅关于印发新能源汽车产业发展规划（2021—2035年）的通知,2020,"['Liaoning', 'Hunan', 'Hebei', 'Yunnan', 'Jilin', 'Jiangsu', 'Beijing', 'Inner Mongolia', 'Shaanxi', 'Guizhou', 'Henan', 'Jiangxi', 'Xinjiang', 'Sichuan']",0.0183126134738745,0.7229205618683954,True
+国务院关于《中新天津生态城建设国家绿色发展示范区实施方案（2024—2035年）》的批复,2024,"['Hunan', 'Tianjin']",0.0305962345173497,0.769968463078753,False
+国务院关于《北京城市副中心建设国家绿色发展示范区实施方案》的批复,2024,"['Hunan', 'Tianjin']",0.0305962345173497,0.769968463078753,False
+国务院关于同意鄂尔多斯市建设国家可持续发展议程创新示范区的批复,2022,['Inner Mongolia'],-0.0313584928376428,0.772442715910195,False
+国务院办公厅关于印发推进多式联运发展优化调整运输结构工作方案（2021—2025年）的通知,2022,"['Liaoning', 'Hunan', 'Hebei', 'Tianjin', 'Jiangsu', 'Beijing', 'Shaanxi', 'Guizhou', 'Jiangxi', 'Sichuan']",-0.0117351216185002,0.7746337468602811,False
+国务院关于印发《2024—2025年节能降碳行动方案》的通知,2024,"['Hunan', 'Henan', 'Shanxi']",0.0143859977754509,0.8685928870610752,False
+国务院办公厅关于转发国家发展改革委、住房城乡建设部《加快推动建筑领域节能降碳工作方案》的通知,2024,"['Hunan', 'Henan', 'Shanxi']",0.0143859977754509,0.8685928870610752,False
+国务院办公厅关于对“十三五”时期实行最严格水资源管理制度成绩突出的省级人民政府给予表扬的通报,2021,"['Liaoning', 'Hunan', 'Hebei', 'Tianjin', 'Jiangsu', 'Beijing', 'Shaanxi', 'Henan', 'Qinghai', 'Jiangxi', 'Zhejiang', 'Sichuan']",0.0040464015700071,0.9227461926944314,False
+排污许可管理条例,2021,"['Hebei', 'Tianjin', 'Beijing', 'Zhejiang', 'Sichuan']",0.0035308070060287,0.949053999407324,False
