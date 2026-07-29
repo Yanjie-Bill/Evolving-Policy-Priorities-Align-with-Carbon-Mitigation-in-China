@@ -1,0 +1,13 @@
+metric,value
+overall_mean_dominant_share,0.31751035304508474
+mean_dominant_share_delta_yoy_negative,0.3375536130686206
+mean_dominant_share_delta_yoy_nonnegative,0.288558977455533
+mean_difference_negative_minus_nonnegative,0.04899463561308759
+relative_difference_pct,16.979071677171323
+welch_t_stat,1.8831927416116254
+welch_t_p,0.0748080443945591
+mannwhitney_u_stat,84.0
+mannwhitney_u_p,0.0950279527318241
+alignment_ratio_negative_years_above_overall_mean,0.6153846153846154
+alignment_ratio_nonnegative_years_above_overall_mean,0.3333333333333333
+alignment_ratio_difference,0.2820512820512821
